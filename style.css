@@ -1,9 +1,19 @@
 .purple {
     color: purple;
+    
 }
 .pink {
     color: pink;
+    font-weight: 900;
+    
 }
 .green {
     color: green;
+}
+.centr {
+    text-align: center;
+}
+article {
+    font-family: "Roboto Condensed", serif;
+
 }
